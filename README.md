@@ -1,5 +1,5 @@
 # X-Ray-Diffractometry
-This is a quick and dirty program thrown together to process data from an engineering lab of mine. It uses Brigg's angles supplied by an x-ray diffractometer and will use the data to help inform you what the most likely crystal structure of the sample was (out of simple cubic (SC), body-centered cubic (BCC) and face-centered cubic (FCC) crystal structures).
+This is a quick and dirty program thrown together to process data from an engineering lab of mine (ENGR M12L). It uses Brigg's angles supplied by an x-ray diffractometer and will use the data to help inform you what the most likely crystal structure of the sample was (out of simple cubic (SC), body-centered cubic (BCC) and face-centered cubic (FCC) crystal structures).
 
 The program takes in a text file containing the data as an argument. The data provided should be the Brigg's angles, not the diffraction angles, and the text file should be populated only with numbers separated by newlines. There is a sample file in the repo containing my lab data.
 
