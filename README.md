@@ -7,4 +7,4 @@ The program output will have 3 headers, "SC" for simple cubic, "BCC" for body-ce
 
 The program *does not* index the planes or calculate the atomic radius or anything else. I did not have time to implement these features before the lab.
 
-There are ANSI escape codes on lines 110, 111, 116, 117, 122, and 123 to make the text red. If you wish to compile on Windows, you will need to remove or replace those.
+There are ANSI escape codes on lines 110, 111, 116, 117, 122, and 123 of main.cpp to make the text red. If you wish to compile on Windows, you will need to remove or replace those.
